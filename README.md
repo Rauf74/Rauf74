@@ -75,11 +75,7 @@ const rauf = {
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rauf74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats-nine-azure.vercel.app/?user=Rauf74&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  
-  <br/>
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauf74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauf74&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
