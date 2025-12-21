@@ -75,7 +75,7 @@ const rauf = {
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rauf74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rauf74&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Rauf74&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
   
   <br/>
   
@@ -108,7 +108,7 @@ const rauf = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rauf74&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Rauf74&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
 ---
