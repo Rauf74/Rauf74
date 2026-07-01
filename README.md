@@ -83,12 +83,6 @@ const rauf = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rauf74/Rauf74/metrics/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
