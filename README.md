@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdur%20Rauf%20Al%20Farras&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer&descSize=20&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdur%20Rauf%20Al%20Farras&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer&descSize=20&descAlignY=52"/>
 
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Passionate+about+Building+Web+Apps+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Web+Apps+That+Matter+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A;Open+to+Interesting+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
   <!-- Profile Views Counter -->
   <br/>
@@ -20,9 +20,8 @@
 ```javascript
 const rauf = {
     name: "Abdur Rauf Al Farras",
-    role: "Web Developer",
+    role: "Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    looking_for: "New Opportunities",
     current_focus: ["Building Web Applications", "Learning New Tech"],
     fun_fact: "I turn ☕ into <code/>"
 };
@@ -30,13 +29,27 @@ const rauf = {
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Currently **open to work** and seeking new opportunities
+- 💼 Full Stack Developer building web applications end-to-end
 - 🌱 Always learning and exploring new technologies
-- 💡 Love building web applications from scratch
-- 🎯 Goal: Contributing to impactful projects
+- 💡 Love shipping web applications from scratch
+- 🤝 Open to interesting collaborations and side projects
 - ⚡ Fun fact: Coffee + Code = Magic ✨
 
 <br clear="both"/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [spk-smart-laravel](https://github.com/Rauf74/spk-smart-laravel) | Laravel 13, MariaDB, PostgreSQL | Decision support system for school BK counselors using SMART method |
+| [pos-sagha](https://github.com/Rauf74/pos-sagha) | Laravel 10, React 17, MySQL | Point-of-Sale application for SME retail |
+| [sammarie-hris](https://github.com/Rauf74/sammarie-hris) | CodeIgniter 3, MySQL | HRIS for employee & payroll management |
+
+</div>
 
 ---
 
@@ -119,14 +132,14 @@ const rauf = {
 ---
 
 <div align="center">
-  
-  ### 💼 Open to Work!
-  
-  **I'm actively looking for new opportunities as a Web Developer.**  
-  **Feel free to reach out if you have any exciting projects or job opportunities!**
-  
+
+  ### 🤝 Available for Interesting Projects
+
+  **I'm open to collaborating on side projects, OSS contributions, and meaningful conversations about web development.** <br/>
+  **Feel free to reach out via email or LinkedIn below!**
+
   <br/>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
+
 </div>
